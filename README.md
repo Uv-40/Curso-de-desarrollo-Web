@@ -11,7 +11,7 @@
     - [Formularios HTML](#Formularios-HTML)
     - [Navegacion entre secciones](#Navegacion-entre-secciones)
     - [Formas de agregar estilos a HTML](#formas-de-agragar-estilos-a-html)
-    - [Reglas selectores declaraciones y css](#Reglas selectores declaraciones y css)
+    - [Reglas selectores declaraciones y css](#Reglas-selectores-declaraciones-y-css)
     
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
