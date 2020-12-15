@@ -8,9 +8,9 @@
     - [DOM](#DOM)
     - [Etiquetas](#etiquetas)
     - [Atributos HTML](#atributos-HTML)
-    - [Formularios HTML](#formularios-HTML)
-    - [Navegación entre secciones](#Navegación-entre-secciones)
-    - [Formas  de agregar estilos a HTML](#formas-de-agragar-estilos-a-html)
+    - [Formularios HTML](#Formularios-HTML)
+    - [Navegación entre secciones](#Navegacion-entre-secciones)
+    - [Formas de agregar estilos a HTML](#formas-de-agragar-estilos-a-html)
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
@@ -18,6 +18,8 @@
 # HTML
 
 ## DOM
+
+## etiquetas
 
 ## Formularios HTML
 
@@ -48,7 +50,7 @@ El boton se genera con la etiqueta '<button></button>'
 
 ```
 
-## Nevgación entre secciones
+## Nevgacion entre secciones
 
 La navegación entre secciones es el enlazamiento de información a otras páginas web o a una seccion dentro de nuestro mismo sitio web.
 
