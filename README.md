@@ -51,5 +51,16 @@ El boton se genera con la etiqueta '<button></button>'
 
 La navegación entre secciones es el enlazamiento de información a otras páginas web o a una seccion dentro de nuestro mismo sitio web.
 
-Los enlaces se agregan con un atributo de la etiqueta llamado id="", este atributo se agrega en la etiqueta ej: <seccion id="" y por otro lado debe haber un href que nos permita general el origen del enlace, en la etiqueta href="#se coloca el id generado en la etiqueta seccion"
+Los enlaces se agregan con un atributo de la etiqueta llamado id="", este atributo se agrega en la etiqueta ej: <seccion id="" y por otro lado debe haber un href que nos permita general el origen del enlace, en la etiqueta href="#se coloca el id generado en la etiqueta seccion".
+
+```HTML
+            <li>
+              <a href="#portafolio">Portafolio</a>
+            </li>
+<section id="portafolio">
+</section>
+
+```
+
+Si el enlace se quiere hacer a otra página en la etiqueta hash se pone un slash y el nombre de la pagina a direccionar ej: /portafolio/index.html
  
