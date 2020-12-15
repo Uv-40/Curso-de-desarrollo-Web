@@ -18,3 +18,32 @@
 ## DOM
 
 ## Formularios HTML
+
+Los formularios en HTML son una unidad para manejar información y permite del envio de información a dueño de web site.
+
+Partes del formulario:
+  - Ingreso de datos y modelación de los datos (clase 10)
+  - Envío de datos y almacenamiento de los mismos, poner la seguridad y temas sensibles de la información.
+ 
+ -  Los fomularios se crean con la etiqueta <form></form>
+ -  las esntradas de datos se definen con la etqiqueta <input></input> 
+    Atributos de input:
+      - type="" es el tipo de dato que recoge el campo rn el formulario
+      - Placeholder="" es el mensaje que aparece dentro del campo de input
+      - Value="" este atributo se puede usar en vez del placeholder para dejar un formato del dato que se debe ingresar ej: @gmail.com
+      - Label="" Este genera un texto indicativo al lado del campo para el input ( el label es muy usado cuando se usa un checkbox de input)
+ - El boton se genera con la etiqueta <button></button>
+ 
+ ```HTML
+<section>
+      Sección contacto
+      <form action="/Suscripcion/">
+        <h3>¿Creamos algo juntos?</h3>
+        <input type="email" placeholder="Déjame tu email" />
+        <button>Enviar</button>
+      </form>
+</section>
+
+```
+ 
+ 
