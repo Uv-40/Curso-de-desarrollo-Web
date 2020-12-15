@@ -6,6 +6,9 @@
 # Tabla de contenido
 - [HTML](#HTML)
     - [DOM](#DOM)
+    - [Etiquetas](#etiquetas)
+    - [Atributos HTML](#atributos-HTML)
+    - [Formularios HTML](#formularios-HTML)
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
