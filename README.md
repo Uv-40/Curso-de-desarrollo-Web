@@ -54,9 +54,9 @@ La navegación entre secciones es el enlazamiento de información a otras págin
 Los enlaces se agregan con un atributo de la etiqueta llamado id="", este atributo se agrega en la etiqueta ej: <seccion id="" y por otro lado debe haber un href que nos permita general el origen del enlace, en la etiqueta href="#se coloca el id generado en la etiqueta seccion".
 
 ```HTML
-            <li>
-              <a href="#portafolio">Portafolio</a>
-            </li>
+<li>
+  <a href="#portafolio">Portafolio</a>
+</li>
 <section id="portafolio">
 </section>
 
