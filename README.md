@@ -66,5 +66,5 @@ Si el enlace se quiere hacer a otra página en la etiqueta hash se pone un slash
 
 ### Enlace externo
 
-Mediante un etiqueta anchor '''<a  > < / a >''' y el atributo href="" se pone la url de la página a la que queremos que nos dirija
+Mediante un etiqueta anchor '''<a  ->< / a >''' y el atributo href="" se pone la url de la página a la que queremos que nos dirija
  
