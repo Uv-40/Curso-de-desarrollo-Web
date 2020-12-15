@@ -12,6 +12,7 @@
     - [Navegacion entre secciones](#Navegacion-entre-secciones)
     - [Formas de agregar estilos a HTML](#formas-de-agragar-estilos-a-html)
     - [Reglas selectores declaraciones y css](#Reglas-selectores-declaraciones-y-css)
+    - [Los estilos incluidos por el navegador](#Los-estilos-incluidos-por-el-navegador)
     
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
@@ -101,3 +102,4 @@ A CSS, se le llama hojas de estilos en cascada porque los estilos que se definen
 
 ![reglacss](https://user-images.githubusercontent.com/25805919/102266095-fb54be80-3ee5-11eb-94d9-b02b4ac24a54.png)
 
+## Los estilos incluidos por el navegador
