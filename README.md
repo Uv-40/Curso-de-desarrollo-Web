@@ -50,7 +50,7 @@ El boton se genera con la etiqueta '<button></button>'
 
 ```
 
-## Nevegacion entre secciones
+## Navegacion entre secciones
 
 La navegación entre secciones es el enlazamiento de información a otras páginas web o a una seccion dentro de nuestro mismo sitio web.
 
