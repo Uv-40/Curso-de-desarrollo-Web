@@ -10,6 +10,6 @@
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
    
-#HTML
+# HTML
 
-##DOM
+## DOM
