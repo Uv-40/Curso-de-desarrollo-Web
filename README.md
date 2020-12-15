@@ -10,7 +10,7 @@
     - [Atributos HTML](#atributos-HTML)
     - [Formularios HTML](#formularios-HTML)
     - [Navegación entre secciones](#Navegación-entre-secciones)
-    - [Formas  de agregar estilos a HTML](#formas-de-agregar-estilos-a-HTML)
+    - [Formas  de agregar estilos a HTML](#formas-de-agragar-estilos-a-html)
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
@@ -73,7 +73,7 @@ Mediante un etiqueta anchor '''<a  ->< / a >''' y el atributo href="" se pone la
 <a href="https://www.youtube.com/watch?v=5f5Ig_U2Bpk&t=11s" target="_blank">Ver platica </a>
 ```
 
-## formas de agragar estilos a HTML
+#formas-de-agragar-estilos-a-html
 
 Hay tres formas para incluir estilos que definan la apariencia de tu html:
 
