@@ -10,6 +10,7 @@
     - [Atributos HTML](#atributos-HTML)
     - [Formularios HTML](#formularios-HTML)
     - [Navegación entre secciones](#Navegación-entre-secciones)
+    - [Formas  de agregar estilos a HTML](#formas-de-agregar-estilos-a-HTML)
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
@@ -71,3 +72,13 @@ Mediante un etiqueta anchor '''<a  ->< / a >''' y el atributo href="" se pone la
 ```HTML
 <a href="https://www.youtube.com/watch?v=5f5Ig_U2Bpk&t=11s" target="_blank">Ver platica </a>
 ```
+
+## formas de agragar estilos a HTML
+
+Hay tres formas para incluir estilos que definan la apariencia de tu html:
+
+- Estilos en línea: se definen directamente en el elemento html que quieres estilizar, se agregan con el atributo style. No es para nada recomendado ya que Html sirve para definir la estructura y semántica del código y no el aspecto visual, aquí estaríamos mezclando todo.
+- Estilos con el tag Style: regularmente este tag se incluye dentro de la etiqueta head del html. Utiliza una etiqueta style. Separa en cierto modo, de una forma menos sucia (por decirlo así). Esta forma sigue sin ser la más recomendada porque seguimos mezclando lo que es el aspecto visual con la estructura y semántica del código.
+- Estilos enlazados desde un archivo css externo: utilizando la etiqueta link que nos permite enlazar recursos externos. Utilizando un archivo CSS externo al documento HTML. Esta es la forma más recomendada porque estamos separando totalmente la estructura y semántica con el aspecto visual.
+
+A CSS, se le llama hojas de estilos en cascada porque los estilos que se definen para una página, se van aplicando de arriba hacia abajo, y de lo más general a lo más particular, teniendo prioridad lo más particular. Esto es, los estilos que prevalecen son los que han sido definidos en línea, luego los que fueron definidos mediante la etiqueta style en la cabeza o cuerpo del html, y por último los estilos definidos en archivos externos enlazados con la etiqueta link. Esta prioridad se puede alterar al usar el modificador **!important"" en la definición de algún estilo en particular, aunque esto no es recomendado.
