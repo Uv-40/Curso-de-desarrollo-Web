@@ -95,4 +95,4 @@ declaraciones: son las acciones que se van a realizar con el selector
 propiedades: son los atributos que usaremos con el selector
 valores: son los inputs que reciben las propiedades
 
-("https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatzi.com%2Fclases%2F2008-html-css%2F31071-anatomia-de-una-regla-de-css%2F&psig=AOvVaw23Tm83frne-vIimM1x2L7G&ust=1608148352250000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCV9c3h0O0CFQAAAAAdAAAAABAD")
+![reglacss](https://user-images.githubusercontent.com/25805919/102266095-fb54be80-3ee5-11eb-94d9-b02b4ac24a54.png)
