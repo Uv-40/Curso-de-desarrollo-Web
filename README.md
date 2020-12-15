@@ -11,7 +11,7 @@
     - [Formularios HTML](#Formularios-HTML)
     - [Navegacion entre secciones](#Navegacion-entre-secciones)
     - [Formas de agregar estilos a HTML](#formas-de-agragar-estilos-a-html)
-    - [Reglas, selectores, declaraciones y css](#Reglas, selectores, declaraciones y css)
+    - [Reglas selectores declaraciones y css](#Reglas selectores declaraciones y css)
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
     - [Optimización de Fibonacci](#Optimización-de-Fibonacci)
@@ -87,4 +87,4 @@ Hay tres formas para incluir estilos que definan la apariencia de tu html:
 A CSS, se le llama hojas de estilos en cascada porque los estilos que se definen para una página, se van aplicando de arriba hacia abajo, y de lo más general a lo más particular, teniendo prioridad lo más particular. Esto es, los estilos que prevalecen son los que han sido definidos en línea, luego los que fueron definidos mediante la etiqueta style en la cabeza o cuerpo del html, y por último los estilos definidos en archivos externos enlazados con la etiqueta link. Esta prioridad se puede alterar al usar el modificador **!important"" en la definición de algún estilo en particular, aunque esto no es recomendado.
 
 
-## Reglas, selectores, declaraciones y css
+## Reglas selectores declaraciones y css
