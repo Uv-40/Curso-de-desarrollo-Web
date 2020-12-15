@@ -63,4 +63,8 @@ Los enlaces se agregan con un atributo de la etiqueta llamado id="", este atribu
 ```
 
 Si el enlace se quiere hacer a otra página en la etiqueta hash se pone un slash y el nombre de la pagina a direccionar ej: /portafolio/index.html
+
+### Enlace externo
+
+Mediante un etiqueta anchor <a  > < / a > y el atributo href="" se pone la url de la página a la que queremos que nos dirija
  
