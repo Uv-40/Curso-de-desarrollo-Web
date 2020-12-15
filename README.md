@@ -106,3 +106,10 @@ A CSS, se le llama hojas de estilos en cascada porque los estilos que se definen
 # Estilos y css
 
 ## Unidades de medida y colores
+
+En css los colores se pueden representar de 3 formas:
+  - **Palabras clave:** son atajos con los nombre de los colores (se limta a algunos colores)
+  - **Usando hexadecimales o rgb, rgba:** cuando se quiere llegar a colores exactos se utiliza este método.
+  - **Usando hls() hlsa():**
+  
+La unidad de medida por excelencia en el mundo digital son los **pixeles**, un pixel es la menor unidad homogenea de color que forma parte de una imagen digital. los pixeles tambien sirven para **asignar** tamaño a imágenes, texto, bordes, dimensiones, márgenes y rellenos.
