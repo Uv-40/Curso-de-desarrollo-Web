@@ -66,8 +66,8 @@ Si el enlace se quiere hacer a otra página en la etiqueta hash se pone un slash
 
 ### Enlace externo
 
-Mediante un etiqueta anchor '''<a  ->< / a >''' y el atributo href="" se pone la url de la página a la que queremos que nos dirija
+Mediante un etiqueta anchor '''<a  ->< / a >''' y el atributo href="" se pone la url de la página a la que queremos que nos dirija y el atributo target="_blank permite que el enlace se abra en una nueva pestaña si no se usa esta etiqueta en enlace recarga en la misma página la direeción"
  
 ```HTML
-<a href="https://www.youtube.com/watch?v=5f5Ig_U2Bpk&t=11s">Ver platica</a>
+<a href="https://www.youtube.com/watch?v=5f5Ig_U2Bpk&t=11s" target="_blank">Ver platica </a>
 ```
