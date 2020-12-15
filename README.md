@@ -9,7 +9,7 @@
     - [Etiquetas](#etiquetas)
     - [Atributos HTML](#atributos-HTML)
     - [Formularios HTML](#Formularios-HTML)
-    - [Navegación entre secciones](#Navegacion-entre-secciones)
+    - [Navegacion entre secciones](#Navegacion-entre-secciones)
     - [Formas de agregar estilos a HTML](#formas-de-agragar-estilos-a-html)
 - [Programación Dinámica](#Programación-Dinámica)
     - [Introducción a la Programación Dinámica](#Introducción-a-la-Programación-Dinámica)
