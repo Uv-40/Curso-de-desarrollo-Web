@@ -68,3 +68,6 @@ Si el enlace se quiere hacer a otra página en la etiqueta hash se pone un slash
 
 Mediante un etiqueta anchor '''<a  ->< / a >''' y el atributo href="" se pone la url de la página a la que queremos que nos dirija
  
+```HTML
+<a href="https://www.youtube.com/watch?v=5f5Ig_U2Bpk&t=11s">Ver platica</a>
+```
