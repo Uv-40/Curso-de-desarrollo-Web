@@ -50,7 +50,7 @@ El boton se genera con la etiqueta '<button></button>'
 
 ```
 
-## Nevgacion entre secciones
+## Nevegacion entre secciones
 
 La navegación entre secciones es el enlazamiento de información a otras páginas web o a una seccion dentro de nuestro mismo sitio web.
 
@@ -75,7 +75,7 @@ Mediante un etiqueta anchor '''<a  ->< / a >''' y el atributo href="" se pone la
 <a href="https://www.youtube.com/watch?v=5f5Ig_U2Bpk&t=11s" target="_blank">Ver platica </a>
 ```
 
-#formas-de-agragar-estilos-a-html
+## Formas-de-agragar-estilos-a-html
 
 Hay tres formas para incluir estilos que definan la apariencia de tu html:
 
