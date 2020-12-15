@@ -89,3 +89,10 @@ A CSS, se le llama hojas de estilos en cascada porque los estilos que se definen
 
 
 ## Reglas selectores declaraciones y css
+
+selectores: se usan para identificar un elemento de HTML (Header, footer, body etc)
+declaraciones: son las acciones que se van a realizar con el selector
+propiedades: son los atributos que usaremos con el selector
+valores: son los inputs que reciben las propiedades
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatzi.com%2Fclases%2F2008-html-css%2F31071-anatomia-de-una-regla-de-css%2F&psig=AOvVaw23Tm83frne-vIimM1x2L7G&ust=1608148352250000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCV9c3h0O0CFQAAAAAdAAAAABAD" 7>
